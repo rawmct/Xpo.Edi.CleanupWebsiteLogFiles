@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xpo.Edi.CleanupSIArchiveWebsiteLogFiles", "Xpo.Edi.CleanupSIArchiveWebsiteLogFiles\Xpo.Edi.CleanupSIArchiveWebsiteLogFiles.csproj", "{ED36B051-4C3A-4657-8B61-CC18B83C9293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED36B051-4C3A-4657-8B61-CC18B83C9293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED36B051-4C3A-4657-8B61-CC18B83C9293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED36B051-4C3A-4657-8B61-CC18B83C9293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED36B051-4C3A-4657-8B61-CC18B83C9293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C52DC65-7650-4863-A09C-41E24E1C3183}
+	EndGlobalSection
+EndGlobal
